@@ -12,23 +12,38 @@
 
 # Data Analysis Results
 
-{List the questions and the answers you found by doing this analysis.}
+{
+    Theses are some of the questions that will be explored by this project.
+    Questions:
+
+    Which position provides the most value to a fantast football team? 
+    Which positionins should be prioritised first in a draft, trade, waviers, and free agency?
+    Which is a bigger indicatior for likley success for a player, defensive scheme, match up vs opposing position, or difference in positional rank? 
+}
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+{
+    Visual Studio Code 
+    Juniper Notebook
+    Github
+}
 
-{Describe the programming language that you used and any libraries.}
+{
+    Python 3.11 
+    Pandas
+    Numpy 
+}
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+{Helpful Websites}
+* [pro-football-reference.com](https://www.pro-football-reference.com/years/2024/fantasy.htm)
+* [NFL.com](http://nfl.com)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+{Future improvements:}
+* Working UI
+* Graphs
+* Player Search
