@@ -6,9 +6,8 @@
 
 {Purpose: To explore the pandas python library and use data analytic processes to explore and extract meaning out of fantasy football statistics}
 
-{youtube link TBP}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/ovvEW09afVU)
 
 # Data Analysis Results
 
