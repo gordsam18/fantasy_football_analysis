@@ -86,7 +86,7 @@ def question2():
 
 
 def question3():
-    """Answer: Which players are the most efficient in terms of fantasy points scored per touch?"""
+    """Which players are the most efficient in terms of fantasy points scored per touch?"""
     try:
         df['Touches'] = df['Att'] + df['Rec']  # Total touches = Rush attempts + Receptions
         df['FPPT'] = df['PPR'] / df['Touches']  # Fantasy Points Per Touch
@@ -105,7 +105,7 @@ def question3():
         output_area.insert(tk.END, f"Error: {str(e)}")
 
 def question4():
-    """Answer: Which fantasy position contributes the most total touchdowns across all players?"""
+    """Which fantasy position contributes the most total touchdowns across all players?"""
     try:
         df['Total_TDs'] = df['TD.3']  # Total touchdowns
 

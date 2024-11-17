@@ -18,6 +18,10 @@
     1. Which position provides the most value to a fantasy football team? 
     
     2. Which team scores the most fantasy points and how does it vary by position?  
+   
+    3. Which players are the most efficient in terms of fantasy points scored per touch?
+   
+    4. Which fantasy position contributes the most total touchdowns across all players?
 
    
 }
