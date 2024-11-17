@@ -15,9 +15,11 @@
     Theses are some of the questions that will be explored by this project.
     Questions:
 
-    Which position provides the most value to a fantast football team? 
-    Which positionins should be prioritised first in a draft, trade, waviers, and free agency?
-    Which is a bigger indicatior for likley success for a player, defensive scheme, match up vs opposing position, or difference in positional rank? 
+    1. Which position provides the most value to a fantasy football team? 
+    
+    2. Which team scores the most fantasy points and how does it vary by position?  
+
+   
 }
 
 # Development Environment
@@ -32,6 +34,7 @@
     Python 3.11 
     Pandas
     Numpy 
+    MatPlotLab
 }
 
 # Useful Websites
